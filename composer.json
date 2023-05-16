@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "SatelliteWP\\Teamwork\\Chat\\": "src/"
-        }
+        },
+        "files": [
+          "src/Webhook.php"
+        ]
     },
     "authors": [
         {
