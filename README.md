@@ -34,3 +34,8 @@ Then, inside your PHP file:
   
     $webhook = new \SatelliteWP\Teamwork\Chat\Webhook('https://chat-hooks.us.teamwork.com/v1/in/yyyy/xxxxxxxx-2a87-4cb5-93c3-zzzzzzzzzz');
     $webhook->sendMessage('It works!');
+
+## References
+
+- [Incoming Hooks](https://developer.teamwork.com/guides/teamwork-chat-incoming-hooks/)
+- [Post data using Incoming Hooks](https://developer.teamwork.com/guides/teamwork-chat-incoming-hooks/post-data-using-incoming-hooks/)
