@@ -1,0 +1,16 @@
+{
+    "name": "satellitewp/php-teamwork-chat",
+    "description": "A PHP wrapper to send messages to Teamwork Chat",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SatelliteWP\\Teamwork\\Chat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SatelliteWP"
+        }
+    ],
+    "require": {}
+}
