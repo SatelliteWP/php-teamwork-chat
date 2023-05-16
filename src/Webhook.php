@@ -20,7 +20,7 @@ class Webhook {
 	}
 
 	/**
-	 * Send message to weebhook
+	 * Send message to webhook
 	 * 
 	 * @param string $message Message
 	 * 
