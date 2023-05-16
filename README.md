@@ -28,7 +28,11 @@ Alter your composer.json file like so:
       }
 
 
-Then, inside your PHP file:
+Install the library by running composer:
+
+    composer install
+
+That's it! You are ready to use the library. Inside your PHP file:
 
     require_once __DIR__ . '/vendor/autoload.php';
   
