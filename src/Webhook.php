@@ -28,7 +28,7 @@ class Webhook {
 	 */
 	public function sendMessage($message) {
 		$params = [
-			'post' => [ 'body' => $message]
+			'post' => ['body' => $message]
 		];
 
 		$response = $this->call($this->webhookUrl, [], $params);
@@ -87,7 +87,6 @@ class Webhook {
 		
 		$finalUrl = $url . $urlEnd . $queryParams;
 		curl_setopt($ch, CURLOPT_URL, $finalUrl);
-
 
 		// Execute
 		$data = curl_exec($ch);
