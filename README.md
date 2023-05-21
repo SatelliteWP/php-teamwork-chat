@@ -22,7 +22,7 @@ Inside your PHP file:
 
 ## Contributors
 
-The configuration was created and is maintained by [SatelliteWP](https://www.satellitewp.com/en?utm_source=php-teamwork-chat).
+The configuration was created and is maintained by [SatelliteWP](https://www.satellitewp.com/en/?utm_source=php-teamwork-chat).
 
 
 ## References
