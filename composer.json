@@ -1,7 +1,6 @@
 {
     "name": "satellitewp/php-teamwork-chat",
     "description": "A PHP wrapper to send messages to Teamwork Chat",
-    "version": "1.0.0",
     "homepage": "https://github.com/SatelliteWP/php-teamwork-chat",
     "license": "MIT",
     "autoload": {
